@@ -1,0 +1,22 @@
+FloatingOrb:
+  Effects:
+    'Radiant Power':
+      Enabled: true
+      REGENERATION:
+        Min_Range: 0
+        Max_Range: 5
+        Seconds: 10
+        Amplifier: 255
+      DAMAGE_RESISTANCE:
+        Min_Range: 5
+        Max_Range: 10
+        Seconds: 15
+        Amplifier: 10
+    'Mana Flux':
+      Enabled: true
+      ABSORPTION:
+        Min_Range: 0
+        Max_Range: 5
+        Seconds: 10
+        Amplifier: 1
+    

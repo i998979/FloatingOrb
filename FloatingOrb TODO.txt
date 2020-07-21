@@ -1,0 +1,9 @@
+- Right click on FloatingOrb will trigger something
+- TRY to make FloatingOrb a separate class
+- Particlessssss
+- Make demos of 3 axis move
+- Write post
+- Shot videos and pictures
+- GUIsssss
+- Destroyable FloatingOrb (Shooting game related)
+- APIssss

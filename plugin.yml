@@ -1,0 +1,20 @@
+main: to.epac.factorycraft.FloatingOrb.Main
+version: 0.1.0
+name: FloatingOrb
+author: i998979
+description: Fantasy floating rotating orbs
+softdepend: [ProtocolLib, Vault]
+api-version: 1.13
+
+commands:
+  FloatingOrb:
+    aliases: [fo, flo]
+    description: Main command
+permissions:
+  FloatingOrb.Admin:
+    default: op
+    description: Give access to do all commands
+  FloatingOrb.Spawn:
+    description: Give access to spawn FloatingOrb
+  FloatingOrb.Remove:
+    description: Give access to remove FloatingOrb

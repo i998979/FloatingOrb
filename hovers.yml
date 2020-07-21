@@ -1,0 +1,11 @@
+FloatingOrb:
+  Hover:
+    Normal:
+      Enabled: true
+      Style:
+        - 'Up   0 0.025 0 0.75'
+        - 'Up   0 0.025 0 1.5'
+        - 'Up   0 0.05  0 2'
+        - 'Down 0 0.025 0 1.5'
+        - 'Down 0 0.05  0 0.75'
+        - 'Down 0 0.025 0 0'

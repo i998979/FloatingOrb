@@ -1,0 +1,5 @@
+# Header
+FloatingOrb:
+  Language: en_US
+  # ProtocolLib required
+  Cancel_NoDamage_Sound: false

@@ -1,0 +1,51 @@
+FloatingOrb:
+  Orbs:
+    'Radiant Power Orb':
+      CustomName: "&aRadiant Power Orb"
+      CustomName_Visible: true
+      Glowing: false
+      Gravity: false
+      Invulnerable: true
+      Silent: true
+      
+      AI: false
+      CanPickUpItems: false
+      Collidable: false
+      RemoveWhenFarAway: false
+      
+      Arm: false
+      BasePlate: false
+      Marker: false
+      Small: false
+      Visible: false
+      
+      Helmet:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1631
+        type: DIAMOND_BLOCK
+      # Chestplate:
+        # ==: org.bukkit.inventory.ItemStack
+        # v: 1631
+        # type: DIAMOND_BLOCK
+      # Leggings:
+        # ==: org.bukkit.inventory.ItemStack
+        # v: 1631
+        # type: DIAMOND_BLOCK
+      # Boots:
+        # ==: org.bukkit.inventory.ItemStack
+        # v: 1631
+        # type: DIAMOND_BLOCK
+      # Hand:
+        # ==: org.bukkit.inventory.ItemStack
+        # v: 1631
+        # type: DIAMOND_BLOCK
+      
+      Particles:
+        - Red
+        - Green
+        - Blue
+      Effects:
+        - Radiant Power
+      Hover: Normal
+      Rotate: Normal
+      Drops: {}

@@ -1,0 +1,6 @@
+FloatingOrb:
+  Particles:
+    Red:
+      Enabled: true
+      Style:
+        # - Implementing

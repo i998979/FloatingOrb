@@ -1,0 +1,13 @@
+FloatingOrb:
+  Datas: {}
+    # 91282ae2-38b7-4c0b-a5f4-98ecedc998f4:
+      # EventId: 1
+      # Type: Radiant Power Orb
+      # Location:
+        # ==: org.bukkit.Location
+        # world: world
+        # x: 2.40949304989715
+        # y: 72.0
+        # z: 218.41717699409293
+        # pitch: 6.4411554
+        # yaw: 64.48712
